@@ -1,6 +1,7 @@
 # The Atrium
 
 A p5.js visualization of air pollution.
+https://kybouw.github.io/the-atrium/
 
 Copyright (c) Kyle Bouwman 2020. All rights reserved.
 
