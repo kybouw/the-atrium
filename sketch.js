@@ -48,6 +48,9 @@ function setup() {
 
   if(response.status === "ok") {
     aq_index = response.data.aqi;
+    // aq_index = 10;
+    // aq_index = 500;
+
     loc = response.data.city.name;
   }
 
