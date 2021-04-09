@@ -3,7 +3,7 @@
 A p5.js visualization of air pollution.
 https://kybouw.github.io/the-atrium/
 
-Copyright (c) Kyle Bouwman 2020. All rights reserved.
+Copyright (c) Kyle Bouwman 2020-2021. All rights reserved.
 
 ## The Data
 
@@ -36,3 +36,13 @@ This project tries to address the following questions:
 - What if we could make air pollution more visible?
 - Would we still feel comfortable going outside if there were plastics and other garbage floating around in our air?
 - Would we begin to feel empathy for all of the sea creatures who are displaced because of the garbage that us humans create?
+
+## Examples
+
+### Low AQI - clean air
+
+![Low AQI](examples/lowaqi.jpg)
+
+### High AQI - dirty air
+
+![High AQI](examples/highaqi.jpg)
