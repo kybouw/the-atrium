@@ -48,6 +48,8 @@ function setup() {
 
   if(response.status === "ok") {
     aq_index = response.data.aqi;
+
+    // Used for demonstration purposes
     // aq_index = 10;
     // aq_index = 500;
 
