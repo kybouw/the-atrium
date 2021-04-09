@@ -3,7 +3,7 @@
  *
  * A visualization project on air pollution.
  * 
- * Copyright (c) Kyle Bouwman 2020
+ * Copyright (c) Kyle Bouwman 2020-2021
  * 
  * Air quality data is provided by The World Air Quality Index Project.
  * Visit https://waqi.info/ for more information.
