@@ -12,7 +12,7 @@
 let aq_index;
 let loc;
 let response;
-let WAQI_API_TOKEN = '8ce60c6a13693bfad9d7485af0f672760ab770e2';
+let WAQI_API_TOKEN = 'PASTE YOUR WAQI API TOKEN HERE';
 
 function get_WAQI_URL(location) {
   return "https://api.waqi.info/feed/" + location + "/?token=" + WAQI_API_TOKEN;
